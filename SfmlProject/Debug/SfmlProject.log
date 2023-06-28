@@ -1,0 +1,15 @@
+﻿  Main.cpp
+A:\VISUAL STUDIO\SfmlProject\SfmlProject\Class.cpp(33,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+A:\VISUAL STUDIO\SfmlProject\SfmlProject\Class.cpp(263,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+A:\VISUAL STUDIO\SfmlProject\SfmlProject\Class.cpp(738,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+A:\VISUAL STUDIO\SfmlProject\SfmlProject\Class.cpp(751,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+A:\VISUAL STUDIO\SfmlProject\SfmlProject\Class.cpp(887,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+A:\VISUAL STUDIO\SfmlProject\SfmlProject\Class.cpp(991,15): warning C4834: discarding return value of function with 'nodiscard' attribute
+A:\VISUAL STUDIO\SfmlProject\SfmlProject\Main.cpp(26,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+A:\VISUAL STUDIO\SfmlProject\SfmlProject\Main.cpp(33,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+A:\VISUAL STUDIO\SfmlProject\SfmlProject\Main.cpp(40,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+A:\VISUAL STUDIO\SfmlProject\SfmlProject\Main.cpp(107,50): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+A:\VISUAL STUDIO\SfmlProject\SfmlProject\Main.cpp(107,43): warning C4309: 'argument': truncation of constant value
+A:\VISUAL STUDIO\SfmlProject\SfmlProject\Main.cpp(130,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+A:\VISUAL STUDIO\SfmlProject\SfmlProject\Main.cpp(136,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  SfmlProject.vcxproj -> A:\VISUAL STUDIO\SfmlProject\Debug\SfmlProject.exe
